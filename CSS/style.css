@@ -9,3 +9,21 @@ html{
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Showcase Section */
+.showcase_text{
+    flex-direction: column;
+    justify-content: center;
+}
+.showcase_pic{
+    padding-left: 10%;
+}
+.showcase_pic img{
+    width: 100%;
+}
+.side_border{
+    border-left: 6px solid crimson;
+    padding-left: 6px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
