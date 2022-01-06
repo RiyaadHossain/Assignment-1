@@ -27,3 +27,21 @@ html{
     border-radius: 6px;
     margin-bottom: 10px;
 }
+
+/* Mission Section */
+.mission_item{
+    margin-right: 30px; 
+    padding:  26px 26px 45px 26px;
+    border-radius: 10px;
+}
+.mission_item img{
+    width: 50%;
+}
+.mission_item h2{
+    margin-top: 15px;
+}
+.mission_item p{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}

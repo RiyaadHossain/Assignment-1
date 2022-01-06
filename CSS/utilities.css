@@ -25,10 +25,10 @@
 }
 .header_2{
     font-size: 55px;
-    font-weight: 500;
-    color: rgb(6, 6, 37);
+    font-weight: 600;
+    color: rgb(9, 9, 71);
     font-family: 'Rubik', sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .colored{
     color: goldenrod;
@@ -52,7 +52,18 @@
     margin: 30px 0;
     display: inline-block;
 }
-.side_border{}
 .p_5{
     padding: 5% 0;
+}
+.pb_5{
+    padding-bottom: 5%;
+}
+.bg1{
+    background-color: #29b6d644;
+}
+.bg2{
+    background-color: #ff6b6b91;
+}
+.bg3{
+    background-color: #fec95777;
 }
