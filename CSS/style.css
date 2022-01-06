@@ -43,5 +43,68 @@ html{
 .mission_item p{
     margin-top: 30px;
     font-size: 18px;
-    font-weight: 400;
+    color: rgb(56, 55, 55);
+    font-weight: 300;
+}
+
+/* Develop Section */
+.develop > .container{
+    background-image: url(../images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 160px;
+}
+.develop_pic img{
+    width: 100%;
+}
+.develop_text{
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+}
+.develop_text h1{
+    font-size: 46px;
+    margin-bottom: 6px;
+}
+
+/* Community Section */
+.community {
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 82% 91%;
+    background-size: 160px;
+}
+.community_pic img{
+    width: 100%;
+}
+.community_text{
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 10%;
+}
+.community_text h1{
+    font-size: 46px;
+    margin-bottom: 6px;
+}
+
+/* Contact Me Section */
+
+
+/* Footer Section */
+footer{
+    background-color: black;
+    color: white;
+    padding: 4% 0;
+}
+footer h1{
+    font-size: 46px;
+    font-family: 'Courgette', cursive;
+}
+footer > h1 > span{
+    color: crimson;
+}
+footer p{
+    margin-top: 26px;
+    font-size: 22px;
+    font-weight: 300;
 }
