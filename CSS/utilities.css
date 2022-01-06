@@ -53,6 +53,15 @@
     display: inline-block;
     border-radius: 6px;
 }
+.btn_submit{
+    text-decoration: none;
+    background-color: rgb(10, 136, 48);
+    color: white;
+    padding: 15px 40px;
+    margin: 30px 0;
+    display: inline-block;
+    border-radius: 6px;
+}
 .p_5{
     padding: 5% 0;
 }

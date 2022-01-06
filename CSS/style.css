@@ -88,7 +88,24 @@ html{
 }
 
 /* Contact Me Section */
-
+.contact_me{}
+.map{}
+.form{
+    margin-left: 90px;
+}
+.form label{
+    font-size: 20px;
+}
+.form input{
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+.form textarea{
+    padding: 10px;
+    font-size: 18px;
+    display: block;
+}
 
 /* Footer Section */
 footer{
