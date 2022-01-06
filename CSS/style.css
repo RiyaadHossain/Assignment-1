@@ -49,10 +49,10 @@ html{
 
 /* Develop Section */
 .develop > .container{
-    background-image: url(../images/shapes/shape-5.png);
+    background-image: url(../images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 160px;
+    background-size: 269px;
 }
 .develop_pic img{
     width: 100%;
@@ -83,6 +83,20 @@ html{
     padding-right: 10%;
 }
 .community_text h1{
+    font-size: 46px;
+    margin-bottom: 6px;
+}
+
+/* About Me */
+.about_me_pic img{
+    width: 100%;
+}
+.about_me_text{
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 10%;
+}
+.about_me_text h1{
     font-size: 46px;
     margin-bottom: 6px;
 }
