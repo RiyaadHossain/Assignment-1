@@ -105,18 +105,21 @@ html{
 .form{
     margin-left: 90px;
 }
-.form label{
-    font-size: 20px;
+.input_field{
+    width: 400px;
+    margin-top: 18px;
+    padding: 14px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    font-size: 16px;
 }
-.form input{
-    margin-bottom: 20px;
-    padding: 10px;
-    font-size: 18px;
+.input_field:focus{
+    border: 1px solid crimson;
+    box-shadow: 0 0 20px 0 rgb(235, 67, 101);
 }
-.form textarea{
-    padding: 10px;
-    font-size: 18px;
-    display: block;
+.textarea_field{
+    resize: none;
 }
 
 /* Footer Section */
